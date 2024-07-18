@@ -13,5 +13,13 @@
 # y = 35656222554887711
 # z = -3255522
 
-c = -12.12
-print(type(c))
+# c = 35e3
+# d = 10j
+# x = 1    # int
+# y = 2.8  # float
+# z = 1j   # complex
+
+# import random
+# a = random.randrange(1,10)
+# print(a)
+
